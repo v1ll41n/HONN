@@ -1,6 +1,6 @@
-# honn
+# Honna
 
-A new Flutter project.
+A Social Platform that aims to Connect, Mentor, and Empower Women in Sports.
 
 ## Getting Started
 
